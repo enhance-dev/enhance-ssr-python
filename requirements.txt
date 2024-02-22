@@ -1,0 +1,3 @@
+architect-functions==1.0.0
+boto3==1.34.39
+extism==1.0.0

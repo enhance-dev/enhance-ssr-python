@@ -1,3 +1,11 @@
+enhance-ssr.wasm
+.DS_Store
+__pycache__/
+pyvenv.cfg
+.env
+bin/
+include/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
