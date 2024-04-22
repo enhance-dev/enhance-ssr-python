@@ -11,5 +11,5 @@ curl -L https://github.com/enhance-dev/enhance-ssr-wasm/releases/download/v0.0.3
 ## Run 
 Launch the development server with:
 ```sh
-npx npx @architect/sandbox
+npx @architect/sandbox
 ```
